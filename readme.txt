@@ -3,7 +3,7 @@ Plugin Name: Mass Pages/Posts Creator
 Plugin URI: http://multidots.com/
 Author: dots
 Author URI: http://multidots.com/
-Contributors: Multidots Solutions Pvt. Ltd.
+Contributors: dots
 Version: 1.0.0
 Stable tag: 1.0
 Tags: bulk, mass, multiple, amount, volume, quantity, posts, pages
