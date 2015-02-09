@@ -25,7 +25,7 @@ This plugin will include all attribute like status, parent page, template, type,
 == Installation ==
 
 * Download the plugin
-* Upload the folder "Mass-pages-posts-creator" to wp-content/plugins (or upload a zip through the Wordpress admin)
+* Upload the folder "Mass-pagesposts-creator" to wp-content/plugins (or upload a zip through the Wordpress admin)
 * Activate and enjoy!
 
 == Frequently Asked Questions ==

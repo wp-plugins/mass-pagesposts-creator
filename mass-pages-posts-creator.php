@@ -17,7 +17,7 @@ add_action( 'wp_enqueue_scripts', 'mpc_load_my_script' );
 
 add_action('admin_enqueue_scripts', 'mpc_styles');
 function mpc_styles() {
-    wp_register_style( 'custom_wp_admin_css', plugins_url('mass-pages-posts-creator/css/style.css'));
+    wp_register_style( 'custom_wp_admin_css', plugins_url('mass-pagesposts-creator/css/style.css'));
     wp_enqueue_style( 'custom_wp_admin_css' );
 }
 

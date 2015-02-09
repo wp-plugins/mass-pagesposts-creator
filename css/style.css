@@ -1,5 +1,5 @@
 th b {color: red;}							
-#message{background: none repeat scroll 0 0 #0074a2; color: #fff; font-size: 18px; font-weight: bold; min-height: 35px; padding-top: 12px; text-align: center; vertical-align: middle; display:none;}
+#message{ background-color: #0074a2 !important; color: #fff !important; display: none; font-size: 18px; font-weight: bold; min-height: 35px; padding-top: 12px; text-align: center; vertical-align: middle; }
 .view{display:block !important;}
 #result{display:inline-block;width:100%; float:left;}
 #result table{margin: 0 auto; background-color:#EFE7E7; border:1px solid #ccc; padding-top:15px; font-family:Arial;}
